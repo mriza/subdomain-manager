@@ -1,2 +1,2 @@
 # subdomain-manager
-Subdomain manager for my server
+Just a little bash script to manage subdomains in some servers
